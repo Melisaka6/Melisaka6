@@ -1,4 +1,4 @@
- [![MasterHead](https://www.google.com/search?q=software+photo&tbm=isch&ved=2ahUKEwj_4bLL2J2AAxXLmCcCHUPCAC0Q2-cCegQIABAA&oq=software+photo&gs_lcp=CgNpbWcQAzIFCAAQgAQyBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB46BAgjECc6BwgAEIoFEENQvgJYpQtg1AxoAHAAeACAAaMDiAHSDJIBCTAuNC4wLjIuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=-V65ZL-BB8uxnsEPw4SD6AI&bih=975&biw=1920#imgrc=UPKeaHeMIPyY6M)
+ [![MasterHead](https://miro.medium.com/v2/resize:fit:1200/0*dl6DnA8iMAYSVt2O.png)
 
 
 
