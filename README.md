@@ -19,3 +19,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melisaka6&" alt="melisaka6" /></p>
 
 
+![snake gif](https://github.com/Melisaka6/Melisaka6/blob/output/github-contribution-grid-snake.gif)
