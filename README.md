@@ -1,7 +1,6 @@
  [![MasterHead](https://miro.medium.com/v2/resize:fit:1200/0*dl6DnA8iMAYSVt2O.png)
 
 
-
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
